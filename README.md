@@ -1,1 +1,2 @@
 # cse480-notebooks
+Due to computer problems I needed to reinstall Window's, meaning that I am not able to upload previous weeks. i will proceed to redo them and upload them here, just to have a record of the assignments
